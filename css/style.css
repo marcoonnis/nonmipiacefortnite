@@ -105,7 +105,7 @@ h1.up-left
   display: inline-block;
 }
 
-.progressb
+.progressbar
 {
   margin: 0px 0px 0px 27px;
   padding-top: 30px;
@@ -116,7 +116,6 @@ h1.up-left
 
 .inline-navbar
 {
-
   background-color: #e4e7e8;
   height: 60px;
   padding: 0px 0px 0px 35px;
